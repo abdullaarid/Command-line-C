@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="main.c">
+		<category name="Window">
+			<property name="Left" type="integer">208</property>
+			<property name="Top" type="integer">208</property>
+			<property name="Right" type="integer">964</property>
+			<property name="Bottom" type="integer">738</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="fraction.h">
+		<category name="Window">
+			<property name="Left" type="integer">234</property>
+			<property name="Top" type="integer">234</property>
+			<property name="Right" type="integer">990</property>
+			<property name="Bottom" type="integer">764</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="fraction.c">
+		<category name="Window">
+			<property name="Left" type="integer">4294967288</property>
+			<property name="Top" type="integer">4294967265</property>
+			<property name="Right" type="integer">1016</property>
+			<property name="Bottom" type="integer">715</property>
+			<property name="Maximized" type="integer">1</property>
+			<property name="Active" type="integer">1</property>
+		</category>
+	</category>
+</settings>
